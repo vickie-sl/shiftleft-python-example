@@ -4,7 +4,7 @@ build_rules:
       - vuln
       - secret
       - insight
-      - extscan
+      - "*"
     severity:
       - SEVERITY_MEDIUM_IMPACT
       - SEVERITY_HIGH_IMPACT
